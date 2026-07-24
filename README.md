@@ -24,6 +24,7 @@ Leetcode solution
 | [0042-trapping-rain-water](https://github.com/harsh-chauhan-dev/DSA/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/harsh-chauhan-dev/DSA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harsh-chauhan-dev/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0567-permutation-in-string](https://github.com/harsh-chauhan-dev/DSA/tree/master/0567-permutation-in-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -38,12 +39,14 @@ Leetcode solution
 | [0217-contains-duplicate](https://github.com/harsh-chauhan-dev/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/harsh-chauhan-dev/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/harsh-chauhan-dev/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0567-permutation-in-string](https://github.com/harsh-chauhan-dev/DSA/tree/master/0567-permutation-in-string) |
 ## String
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/harsh-chauhan-dev/DSA/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/harsh-chauhan-dev/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/harsh-chauhan-dev/DSA/tree/master/0242-valid-anagram) |
+| [0567-permutation-in-string](https://github.com/harsh-chauhan-dev/DSA/tree/master/0567-permutation-in-string) |
 ## Sorting
 |  |
 | ------- |
@@ -83,6 +86,7 @@ Leetcode solution
 ## Sliding Window
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/harsh-chauhan-dev/DSA/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/harsh-chauhan-dev/DSA/tree/master/0643-maximum-average-subarray-i) |
 ## Union-Find
 |  |
