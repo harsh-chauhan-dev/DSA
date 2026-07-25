@@ -15,6 +15,7 @@ Leetcode solution
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harsh-chauhan-dev/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/harsh-chauhan-dev/DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/harsh-chauhan-dev/DSA/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/harsh-chauhan-dev/DSA/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/harsh-chauhan-dev/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0643-maximum-average-subarray-i](https://github.com/harsh-chauhan-dev/DSA/tree/master/0643-maximum-average-subarray-i) |
 ## Two Pointers
@@ -64,6 +65,7 @@ Leetcode solution
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/harsh-chauhan-dev/DSA/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/harsh-chauhan-dev/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
@@ -89,6 +91,7 @@ Leetcode solution
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/harsh-chauhan-dev/DSA/tree/master/0076-minimum-window-substring) |
+| [0239-sliding-window-maximum](https://github.com/harsh-chauhan-dev/DSA/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/harsh-chauhan-dev/DSA/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/harsh-chauhan-dev/DSA/tree/master/0643-maximum-average-subarray-i) |
 ## Union-Find
@@ -107,4 +110,12 @@ Leetcode solution
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/harsh-chauhan-dev/DSA/tree/master/0042-trapping-rain-water) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/harsh-chauhan-dev/DSA/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/harsh-chauhan-dev/DSA/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
