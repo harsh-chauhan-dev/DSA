@@ -20,6 +20,7 @@ Leetcode solution
 | [0239-sliding-window-maximum](https://github.com/harsh-chauhan-dev/DSA/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/harsh-chauhan-dev/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0643-maximum-average-subarray-i](https://github.com/harsh-chauhan-dev/DSA/tree/master/0643-maximum-average-subarray-i) |
+| [1470-shuffle-the-array](https://github.com/harsh-chauhan-dev/DSA/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/harsh-chauhan-dev/DSA/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
