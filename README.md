@@ -42,6 +42,7 @@ Leetcode solution
 | [0217-contains-duplicate](https://github.com/harsh-chauhan-dev/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/harsh-chauhan-dev/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/harsh-chauhan-dev/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0424-longest-repeating-character-replacement](https://github.com/harsh-chauhan-dev/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/harsh-chauhan-dev/DSA/tree/master/0567-permutation-in-string) |
 ## String
 |  |
@@ -51,6 +52,7 @@ Leetcode solution
 | [0076-minimum-window-substring](https://github.com/harsh-chauhan-dev/DSA/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/harsh-chauhan-dev/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/harsh-chauhan-dev/DSA/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/harsh-chauhan-dev/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/harsh-chauhan-dev/DSA/tree/master/0567-permutation-in-string) |
 ## Sorting
 |  |
@@ -94,6 +96,7 @@ Leetcode solution
 | ------- |
 | [0076-minimum-window-substring](https://github.com/harsh-chauhan-dev/DSA/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/harsh-chauhan-dev/DSA/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/harsh-chauhan-dev/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/harsh-chauhan-dev/DSA/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/harsh-chauhan-dev/DSA/tree/master/0643-maximum-average-subarray-i) |
 ## Union-Find
