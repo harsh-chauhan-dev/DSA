@@ -59,6 +59,7 @@ Leetcode solution
 | [0242-valid-anagram](https://github.com/harsh-chauhan-dev/DSA/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/harsh-chauhan-dev/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/harsh-chauhan-dev/DSA/tree/master/0567-permutation-in-string) |
+| [3968-maximum-manhattan-distance-after-all-moves](https://github.com/harsh-chauhan-dev/DSA/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Sorting
 |  |
 | ------- |
@@ -84,6 +85,7 @@ Leetcode solution
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/harsh-chauhan-dev/DSA/tree/master/0347-top-k-frequent-elements) |
+| [3968-maximum-manhattan-distance-after-all-moves](https://github.com/harsh-chauhan-dev/DSA/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Quickselect
 |  |
 | ------- |
@@ -141,6 +143,7 @@ Leetcode solution
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/harsh-chauhan-dev/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/harsh-chauhan-dev/DSA/tree/master/0189-rotate-array) |
+| [3968-maximum-manhattan-distance-after-all-moves](https://github.com/harsh-chauhan-dev/DSA/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Simulation
 |  |
 | ------- |
