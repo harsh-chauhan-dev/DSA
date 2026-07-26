@@ -15,6 +15,7 @@ Leetcode solution
 | [0128-longest-consecutive-sequence](https://github.com/harsh-chauhan-dev/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/harsh-chauhan-dev/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harsh-chauhan-dev/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/harsh-chauhan-dev/DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/harsh-chauhan-dev/DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/harsh-chauhan-dev/DSA/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/harsh-chauhan-dev/DSA/tree/master/0239-sliding-window-maximum) |
@@ -29,6 +30,7 @@ Leetcode solution
 | [0042-trapping-rain-water](https://github.com/harsh-chauhan-dev/DSA/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/harsh-chauhan-dev/DSA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harsh-chauhan-dev/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/harsh-chauhan-dev/DSA/tree/master/0189-rotate-array) |
 | [0567-permutation-in-string](https://github.com/harsh-chauhan-dev/DSA/tree/master/0567-permutation-in-string) |
 ## Binary Search
 |  |
@@ -138,6 +140,7 @@ Leetcode solution
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/harsh-chauhan-dev/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/harsh-chauhan-dev/DSA/tree/master/0189-rotate-array) |
 ## Simulation
 |  |
 | ------- |
