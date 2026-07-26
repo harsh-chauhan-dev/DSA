@@ -23,6 +23,7 @@ Leetcode solution
 | [0643-maximum-average-subarray-i](https://github.com/harsh-chauhan-dev/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1470-shuffle-the-array](https://github.com/harsh-chauhan-dev/DSA/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/harsh-chauhan-dev/DSA/tree/master/1929-concatenation-of-array) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/harsh-chauhan-dev/DSA/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -49,6 +50,7 @@ Leetcode solution
 | [0347-top-k-frequent-elements](https://github.com/harsh-chauhan-dev/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/harsh-chauhan-dev/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/harsh-chauhan-dev/DSA/tree/master/0567-permutation-in-string) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/harsh-chauhan-dev/DSA/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## String
 |  |
 | ------- |
@@ -94,6 +96,7 @@ Leetcode solution
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/harsh-chauhan-dev/DSA/tree/master/0238-product-of-array-except-self) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/harsh-chauhan-dev/DSA/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Matrix
 |  |
 | ------- |
@@ -106,6 +109,7 @@ Leetcode solution
 | [0424-longest-repeating-character-replacement](https://github.com/harsh-chauhan-dev/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/harsh-chauhan-dev/DSA/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/harsh-chauhan-dev/DSA/tree/master/0643-maximum-average-subarray-i) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/harsh-chauhan-dev/DSA/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Union-Find
 |  |
 | ------- |
@@ -148,4 +152,8 @@ Leetcode solution
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/harsh-chauhan-dev/DSA/tree/master/1929-concatenation-of-array) |
+## Enumeration
+|  |
+| ------- |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/harsh-chauhan-dev/DSA/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 <!---LeetCode Topics End-->
