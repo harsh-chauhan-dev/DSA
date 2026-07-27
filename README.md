@@ -58,6 +58,7 @@ Leetcode solution
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/harsh-chauhan-dev/DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/harsh-chauhan-dev/DSA/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/harsh-chauhan-dev/DSA/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/harsh-chauhan-dev/DSA/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/harsh-chauhan-dev/DSA/tree/master/0125-valid-palindrome) |
@@ -120,6 +121,7 @@ Leetcode solution
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/harsh-chauhan-dev/DSA/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/harsh-chauhan-dev/DSA/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harsh-chauhan-dev/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Stack
@@ -163,4 +165,8 @@ Leetcode solution
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/harsh-chauhan-dev/DSA/tree/master/0011-container-with-most-water) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/harsh-chauhan-dev/DSA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
