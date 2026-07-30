@@ -24,6 +24,7 @@ Leetcode solution
 | [0347-top-k-frequent-elements](https://github.com/harsh-chauhan-dev/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/harsh-chauhan-dev/DSA/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/harsh-chauhan-dev/DSA/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/harsh-chauhan-dev/DSA/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/harsh-chauhan-dev/DSA/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/harsh-chauhan-dev/DSA/tree/master/0853-car-fleet) |
 | [1470-shuffle-the-array](https://github.com/harsh-chauhan-dev/DSA/tree/master/1470-shuffle-the-array) |
@@ -43,6 +44,7 @@ Leetcode solution
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harsh-chauhan-dev/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0704-binary-search](https://github.com/harsh-chauhan-dev/DSA/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
