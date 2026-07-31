@@ -28,6 +28,7 @@ Leetcode solution
 | [0704-binary-search](https://github.com/harsh-chauhan-dev/DSA/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/harsh-chauhan-dev/DSA/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/harsh-chauhan-dev/DSA/tree/master/0853-car-fleet) |
+| [0875-koko-eating-bananas](https://github.com/harsh-chauhan-dev/DSA/tree/master/0875-koko-eating-bananas) |
 | [1470-shuffle-the-array](https://github.com/harsh-chauhan-dev/DSA/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/harsh-chauhan-dev/DSA/tree/master/1929-concatenation-of-array) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/harsh-chauhan-dev/DSA/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
@@ -47,6 +48,7 @@ Leetcode solution
 | [0074-search-a-2d-matrix](https://github.com/harsh-chauhan-dev/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harsh-chauhan-dev/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/harsh-chauhan-dev/DSA/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/harsh-chauhan-dev/DSA/tree/master/0875-koko-eating-bananas) |
 ## Hash Table
 |  |
 | ------- |
