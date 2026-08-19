@@ -91,6 +91,7 @@ Leetcode solution
 | [0076-minimum-window-substring](https://github.com/harsh-chauhan-dev/DSA/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/harsh-chauhan-dev/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/harsh-chauhan-dev/DSA/tree/master/0242-valid-anagram) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/harsh-chauhan-dev/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/harsh-chauhan-dev/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/harsh-chauhan-dev/DSA/tree/master/0567-permutation-in-string) |
 | [0981-time-based-key-value-store](https://github.com/harsh-chauhan-dev/DSA/tree/master/0981-time-based-key-value-store) |
@@ -191,6 +192,7 @@ Leetcode solution
 | ------- |
 | [0146-lru-cache](https://github.com/harsh-chauhan-dev/DSA/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/harsh-chauhan-dev/DSA/tree/master/0155-min-stack) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/harsh-chauhan-dev/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0981-time-based-key-value-store](https://github.com/harsh-chauhan-dev/DSA/tree/master/0981-time-based-key-value-store) |
 ## Math
 |  |
@@ -275,6 +277,7 @@ Leetcode solution
 | [0226-invert-binary-tree](https://github.com/harsh-chauhan-dev/DSA/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/harsh-chauhan-dev/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/harsh-chauhan-dev/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/harsh-chauhan-dev/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/harsh-chauhan-dev/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/harsh-chauhan-dev/DSA/tree/master/0572-subtree-of-another-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/harsh-chauhan-dev/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -290,6 +293,7 @@ Leetcode solution
 | [0226-invert-binary-tree](https://github.com/harsh-chauhan-dev/DSA/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/harsh-chauhan-dev/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/harsh-chauhan-dev/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/harsh-chauhan-dev/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/harsh-chauhan-dev/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/harsh-chauhan-dev/DSA/tree/master/0572-subtree-of-another-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/harsh-chauhan-dev/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -301,6 +305,7 @@ Leetcode solution
 | [0104-maximum-depth-of-binary-tree](https://github.com/harsh-chauhan-dev/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/harsh-chauhan-dev/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/harsh-chauhan-dev/DSA/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/harsh-chauhan-dev/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/harsh-chauhan-dev/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -316,6 +321,7 @@ Leetcode solution
 | [0226-invert-binary-tree](https://github.com/harsh-chauhan-dev/DSA/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/harsh-chauhan-dev/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/harsh-chauhan-dev/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/harsh-chauhan-dev/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/harsh-chauhan-dev/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/harsh-chauhan-dev/DSA/tree/master/0572-subtree-of-another-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/harsh-chauhan-dev/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
